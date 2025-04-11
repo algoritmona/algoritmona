@@ -111,13 +111,7 @@ Sou uma desenvolvedora focada na criação de aplicações robustas e APIs RESTf
 ### 📊 Statistics | Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=algoritmona&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+
 
 <img 
       align="left" 
