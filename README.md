@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Esther Garcia
 
-**`Full Stack .NET Developer`**
+**`Full Stack Developer`**
 
 I'm a fullstack developer passionate about backend development, particularly the logic and problem-solving involved. C# is my favorite language, and it gave me a strong foundation in programming, allowing me to dive deeper into other technologies like Node.js, JavaScript, and ASP.NET Core. I enjoy building scalable applications and RESTful APIs, but I also appreciate the creativity involved in designing intuitive and functional frontends with React, HTML, and CSS. Currently, I’m exploring game development with Unity and working on personal projects to sharpen both my backend and frontend skills. I believe a well-rounded developer can build exceptional applications by combining both the logic of backend and the creativity of frontend.
 
