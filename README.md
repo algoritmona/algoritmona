@@ -2,9 +2,9 @@
 
 **`Full Stack .NET Developer`**
 
-I'm a developer focused on building robust applications and RESTful APIs using the Microsoft ecosystem. Skilled in C#, ASP.NET Core, React, Azure, and front-end with HTML, CSS, and JavaScript. Currently exploring game development with Unity and having fun with personal fullstack projects.
+I'm a fullstack developer passionate about backend development, particularly the logic and problem-solving involved. While I love building scalable applications and RESTful APIs using Node.js, JavaScript, C#, and ASP.NET Core, I also enjoy the creativity involved in designing intuitive and functional frontends with React, HTML, and CSS. I’m also exploring game development with Unity and working on personal projects to sharpen both my backend and frontend skills. I’m a firm believer that both sides of development are crucial to building exceptional applications.
 
-Sou uma desenvolvedora focada na criação de aplicações robustas e APIs RESTful dentro do ecossistema Microsoft. Tenho habilidades com C#, ASP.NET Core, React, Azure e front-end com HTML, CSS e JavaScript. Atualmente explorando desenvolvimento de jogos com Unity e me divertindo com projetos fullstack pessoais.
+Sou uma desenvolvedora fullstack apaixonada por backend, especialmente pela lógica e resolução de problemas que envolvem essa área. Embora eu adore criar aplicações escaláveis e APIs RESTful usando Node.js, JavaScript, C# e ASP.NET Core, também gosto muito da criatividade envolvida no design de frontends intuitivos e funcionais com React, HTML e CSS. Atualmente, estou explorando o desenvolvimento de jogos com Unity e trabalhando em projetos pessoais para aprimorar tanto minhas habilidades em backend quanto frontend. Acredito que ambos os lados do desenvolvimento são fundamentais para construir aplicações excepcionais.
 
 ### 🤖 Languages ​​and Technologies | Linguagens e Tecnologias
 
