@@ -2,9 +2,10 @@
 
 **`Full Stack Developer`**
 
-I’m a fullstack developer, passionate about logic, problem-solving, and design. Even though I work a lot with JavaScript, C# is my favorite language because it’s with it that I truly understood OOP and architecture. I have experience with Node.js, ASP.NET Core, and I’m also exploring game development with Unity. I believe a well-rounded developer combines backend logic with frontend creativity to build exceptional applications.
-
-Sou desenvolvedora fullstack, apaixonada por lógica, resolução de problemas e design. Mesmo trabalhando muito com JavaScript, C# é minha linguagem favorita, pois foi com ela que realmente entendi POO e arquitetura. Tenho experiência com Node.js, ASP.NET Core, e também estou explorando o desenvolvimento de jogos com Unity. Acredito que um desenvolvedor completo combina a lógica do backend com a criatividade do frontend para criar aplicações excepcionais.
+I’m a fullstack developer, passionate about logic, problem-solving, and design. Even though I work a lot with JavaScript, C# is my favorite language because it’s with it that I truly understood OOP and architecture. I have experience with Node.js, ASP.NET Core, and I’m also exploring game development with Unity and mobile development with Xamarin and .NET MAUI. I believe a well-rounded developer combines backend logic with frontend creativity to build exceptional applications.
+<hr />
+Sou desenvolvedora fullstack, apaixonada por lógica, resolução de problemas e design. Mesmo trabalhando muito com JavaScript, C# é minha linguagem favorita, pois foi com ela que realmente entendi POO e arquitetura. Tenho experiência com Node.js, ASP.NET Core, e também estou explorando o desenvolvimento de jogos com Unity e desenvolvimento mobile com Xamarin e .NET MAUI. Acredito que um desenvolvedor completo combina a lógica do backend com a criatividade do frontend para criar aplicações excepcionais.
+<hr />
 
 ### 🤖 Languages ​​and Technologies | Linguagens e Tecnologias
 
