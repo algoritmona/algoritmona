@@ -109,7 +109,7 @@ Sou uma desenvolvedora fullstack apaixonada por backend, especialmente pela lóg
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoritmona&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoritmona&layout=compact&theme=tokyonight"
   />
 
 </p>
