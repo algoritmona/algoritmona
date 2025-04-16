@@ -134,7 +134,7 @@ Sou desenvolvedora fullstack, apaixonada por lógica, resolução de problemas e
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoritmona&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoritmona&layout=compact&theme=light"
   />
 
 </p>
