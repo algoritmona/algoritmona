@@ -2,9 +2,10 @@
 
 **`Full Stack Developer`**
 
-I’m a fullstack developer, passionate about logic, problem-solving, and design. Even though I work a lot with JavaScript, C# is my favorite language because it’s with it that I truly understood OOP and architecture. I have experience with Node.js, ASP.NET Core, and I’m also exploring game development with Unity and mobile development with Xamarin and .NET MAUI. I believe a well-rounded developer combines backend logic with frontend creativity to build exceptional applications.
-<hr />
-Sou desenvolvedora fullstack, apaixonada por lógica, resolução de problemas e design. Mesmo trabalhando muito com JavaScript, C# é minha linguagem favorita, pois foi com ela que realmente entendi POO e arquitetura. Tenho experiência com Node.js, ASP.NET Core, e também estou explorando o desenvolvimento de jogos com Unity e desenvolvimento mobile com Xamarin e .NET MAUI. Acredito que um desenvolvedor completo combina a lógica do backend com a criatividade do frontend para criar aplicações excepcionais.
+I’m a fullstack developer who’s madly in love with backend logic but can’t resist spicing things up with a bit of frontend creativity. JavaScript is my daily bread, but C# was my first real crush — it taught me what OOP actually means (thanks for nothing, Python).
+I’ve built stuff with Node.js, React, ASP.NET Core, and now I’m exploring game dev with Unity and mobile dev with .NET MAUI (yes, I like to have my hands in all the pies).
+My design style? Provocative. I love weird, surreal, sometimes uncomfortable compositions — the kind that make you feel something. I don’t do vanilla.
+I believe great apps come from devs who understand both the structure behind the curtain and the experience on stage. And that’s exactly what I aim for — code that works and winks at you ~(sometimes, literally)~.
 <hr />
 
 ### 🤖 Languages ​​and Technologies | Linguagens e Tecnologias
@@ -134,7 +135,7 @@ Sou desenvolvedora fullstack, apaixonada por lógica, resolução de problemas e
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoritmona&layout=compact&theme=light"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoritmona&layout=compact"
   />
 
 </p>
