@@ -2,7 +2,9 @@
 
 **`Full Stack Developer`**
 
-just a ~different~ UX designer who knows how to build a CRUD.
+your fullstack dev who's already beyond marrakesh.
+<hr />
+sua desenvolvedora fullstack que já está pra lá de marrakesh.
 <hr />
 
 ### 🤖 Languages ​​and Technologies | Linguagens e Tecnologias
