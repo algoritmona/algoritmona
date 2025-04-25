@@ -2,10 +2,7 @@
 
 **`Full Stack Developer`**
 
-I’m a fullstack developer who’s madly in love with backend logic but can’t resist spicing things up with a bit of frontend creativity. JavaScript is my daily bread, but C# was my first real crush — it taught me what OOP actually means.
-I’ve built stuff with Node.js, React, ASP.NET Core, and now I’m exploring game dev with Unity and mobile dev with .NET MAUI (yes, I like to have my hands in all the pies).
-My design style? Provocative. I love weird, surreal, sometimes uncomfortable compositions — the kind that make you feel something. I don’t do vanilla.
-I believe great apps come from devs who understand both the structure behind the curtain and the experience on stage. And that’s exactly what I aim for — code that works and winks at you ~(sometimes, literally)~.
+just a ~different~ UX designer who knows how to build a CRUD.
 <hr />
 
 ### 🤖 Languages ​​and Technologies | Linguagens e Tecnologias
