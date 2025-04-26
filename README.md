@@ -134,7 +134,7 @@ sua desenvolvedora fullstack que já está pra lá de marrakesh.
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoritmona&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoritmona&layout=compact&theme=dark"
   />
 
 </p>
