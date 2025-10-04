@@ -1,10 +1,5 @@
 # 👩🏻‍💻 Esther Garcia
 
-**`Full Stack Developer`**
-
-your fullstack dev who's already beyond marrakesh.
-<hr />
-
 ### 🤖 Languages ​​and Technologies | Linguagens e Tecnologias
 
 <img 
